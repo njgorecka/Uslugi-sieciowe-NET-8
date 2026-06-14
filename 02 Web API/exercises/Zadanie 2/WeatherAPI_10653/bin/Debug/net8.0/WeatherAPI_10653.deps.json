@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WeatherAPI_10653/1.0.0": {
+        "runtime": {
+          "WeatherAPI_10653.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WeatherAPI_10653/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
